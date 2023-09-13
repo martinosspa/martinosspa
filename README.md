@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @martinosspa
 - I’m interested in automation, game design, procedural generation of any kind (non-AI) and general low-level software design
-- Self-tought, currently not employed in tech industry, but I'd love to.
+- Self-tought, currently employed as IT Service Desk.
 - 📫 martinosspa@gmail.com
